@@ -1,0 +1,23 @@
+body{
+background-color: maroon;
+
+}
+
+h1{
+  font-family: verdana;
+  font-size: 1,7em;
+  color: snow;
+}
+
+h2{
+  font-family: verdana;
+  color: indigo;
+  font-size: 1,2em;
+
+}
+
+p{
+  font-family: verdana;
+  color: snow;
+  font-size: 1,2em;
+}
